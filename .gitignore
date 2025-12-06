@@ -1,0 +1,16 @@
+# Ignore large data artifacts and local/generated files
+data/
+clean_data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.env
+.venv
+*.parquet
+*.zip
+*.tar
+*.gz
+*.7z
+

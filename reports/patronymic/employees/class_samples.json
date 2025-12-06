@@ -1,0 +1,512 @@
+{
+  "corrected": [
+    {
+      "normalized_patronymic": "ьметриевнэ",
+      "patronymic_corrected": "ьметриевна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "васильевла",
+      "patronymic_corrected": "васильевна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "джониевно",
+      "patronymic_corrected": "джониевна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "ромонович",
+      "patronymic_corrected": "романович",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "влади*ировна",
+      "patronymic_corrected": "владимировна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "миахиловна",
+      "patronymic_corrected": "михаиловна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "нкиифорович",
+      "patronymic_corrected": "никифорович",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "евановна",
+      "patronymic_corrected": "ивановна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "филим*нович",
+      "patronymic_corrected": "филимонович",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "алекасндрович",
+      "patronymic_corrected": "александрович",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "александ*овна",
+      "patronymic_corrected": "александровна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "витальевна",
+      "patronymic_corrected": "виталиевна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "вялеславович",
+      "patronymic_corrected": "вячеславович",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "ивоновна",
+      "patronymic_corrected": "ивановна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "александродна",
+      "patronymic_corrected": "александровна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "матаеевич",
+      "patronymic_corrected": "матвеевич",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "николоевна",
+      "patronymic_corrected": "николаевна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "викторовн*",
+      "patronymic_corrected": "викторовна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "анд*еевна",
+      "patronymic_corrected": "андреевна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "михиловна",
+      "patronymic_corrected": "михаиловна",
+      "is_patronymic": true
+    }
+  ],
+  "untouched": [
+    {
+      "normalized_patronymic": "олександрович",
+      "patronymic_corrected": "олександрович",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "дмитриевна",
+      "patronymic_corrected": "дмитриевна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "петровна",
+      "patronymic_corrected": "петровна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "владимировна",
+      "patronymic_corrected": "владимировна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "алексеевна",
+      "patronymic_corrected": "алексеевна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "сергеевич",
+      "patronymic_corrected": "сергеевич",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "ильинична",
+      "patronymic_corrected": "ильинична",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "ивановна",
+      "patronymic_corrected": "ивановна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "юриевич",
+      "patronymic_corrected": "юриевич",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "дмитриевич",
+      "patronymic_corrected": "дмитриевич",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "георгиевна",
+      "patronymic_corrected": "георгиевна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "михаилович",
+      "patronymic_corrected": "михаилович",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "вениаминовна",
+      "patronymic_corrected": "вениаминовна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "алексеевна",
+      "patronymic_corrected": "алексеевна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "иванович",
+      "patronymic_corrected": "иванович",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "александрович",
+      "patronymic_corrected": "александрович",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "александровна",
+      "patronymic_corrected": "александровна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "александровна",
+      "patronymic_corrected": "александровна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "михаиловна",
+      "patronymic_corrected": "михаиловна",
+      "is_patronymic": true
+    },
+    {
+      "normalized_patronymic": "степановна",
+      "patronymic_corrected": "степановна",
+      "is_patronymic": true
+    }
+  ],
+  "ambiguous": [
+    {
+      "normalized_patronymic": "анатольеви",
+      "patronymic_corrected": "анатоль*еви",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "васильевич",
+      "patronymic_corrected": "васильевич",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "васильевна",
+      "patronymic_corrected": "васильевна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "васильевич",
+      "patronymic_corrected": "васильевич",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "васильевна",
+      "patronymic_corrected": "васильевна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "якобови",
+      "patronymic_corrected": "якоб*ови",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "виколаевна",
+      "patronymic_corrected": "виколаевна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "васильевна",
+      "patronymic_corrected": "васильевна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "ванович",
+      "patronymic_corrected": "ванович",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "влодимирович",
+      "patronymic_corrected": "влодимирович",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "рладимировна",
+      "patronymic_corrected": "рладимировна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "ефемовна",
+      "patronymic_corrected": "ефемовна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "векторови",
+      "patronymic_corrected": "вектор*ови",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "ансимовна",
+      "patronymic_corrected": "ансимовна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "васильевна",
+      "patronymic_corrected": "васильевна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "васильевна",
+      "patronymic_corrected": "васильевна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "влодимировна",
+      "patronymic_corrected": "влодимировна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "васильевич",
+      "patronymic_corrected": "васильевич",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "васильевна",
+      "patronymic_corrected": "васильевна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "влодимирович",
+      "patronymic_corrected": "влодимирович",
+      "is_patronymic": false
+    }
+  ],
+  "empty": [
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": null,
+      "patronymic_corrected": "",
+      "is_patronymic": false
+    }
+  ],
+  "no_match": [
+    {
+      "normalized_patronymic": "омриовна",
+      "patronymic_corrected": "омриовна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "садмпровис",
+      "patronymic_corrected": "садмпровис",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "изанощнэ",
+      "patronymic_corrected": "изанощнэ",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "арамашовна",
+      "patronymic_corrected": "арамашовна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "иъатоврл",
+      "patronymic_corrected": "иъатоврл",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "гасан агаевеч",
+      "patronymic_corrected": "гасан агаевеч",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "влаимиаовна",
+      "patronymic_corrected": "влаимиаовна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "бобомуродовеч",
+      "patronymic_corrected": "бобомуродовеч",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "восил*евич",
+      "patronymic_corrected": "восил*евич",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "мутагаровна",
+      "patronymic_corrected": "мутагаровна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "шагимовна",
+      "patronymic_corrected": "шагимовна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "евгэньевич",
+      "patronymic_corrected": "евгэньевич",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "ахмарбегович",
+      "patronymic_corrected": "ахмарбегович",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "севастиевич",
+      "patronymic_corrected": "севастиевич",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "раши*ович",
+      "patronymic_corrected": "раши*ович",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "шахрихонович",
+      "patronymic_corrected": "шахрихонович",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "наибкызы",
+      "patronymic_corrected": "наибкызы",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "сариддула*вич",
+      "patronymic_corrected": "сариддула*вич",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "витольевна",
+      "patronymic_corrected": "витольевна",
+      "is_patronymic": false
+    },
+    {
+      "normalized_patronymic": "валерьвкна",
+      "patronymic_corrected": "валерьвкна",
+      "is_patronymic": false
+    }
+  ]
+}

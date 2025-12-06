@@ -1,0 +1,411 @@
+{
+  "corrected": [
+    {
+      "normalized_surname": "шопортов",
+      "surname_corrected": "шапортов",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "лязер",
+      "surname_corrected": "лявер",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "сукорцева",
+      "surname_corrected": "суконцева",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "мнушк*н",
+      "surname_corrected": "мнушкин",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "лупенцов",
+      "surname_corrected": "лубенцов",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "красовецкии",
+      "surname_corrected": "красовицкии",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "мякушкен",
+      "surname_corrected": "мякушкин",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "лозовецкая",
+      "surname_corrected": "лозовицкая",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "дауде",
+      "surname_corrected": "дауд",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "паяница",
+      "surname_corrected": "паляница",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "петровнен",
+      "surname_corrected": "петровнин",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "к*чкаров",
+      "surname_corrected": "кучкаров",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "стаскевчи",
+      "surname_corrected": "стаскевич",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "мотях",
+      "surname_corrected": "мотюх",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "качма*ов",
+      "surname_corrected": "качмазов",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "кормщикво",
+      "surname_corrected": "кормщиков",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "колеснич*нко",
+      "surname_corrected": "колесниченко",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "паниык",
+      "surname_corrected": "паник",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "цуприяов",
+      "surname_corrected": "цуприков",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "зюзни",
+      "surname_corrected": "зюзин",
+      "is_surname": true
+    }
+  ],
+  "untouched": [
+    {
+      "normalized_surname": "цыба",
+      "surname_corrected": "цыба",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "френкель",
+      "surname_corrected": "френкель",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "юренкова",
+      "surname_corrected": "юренкова",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "леонова",
+      "surname_corrected": "леонова",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "полянскии",
+      "surname_corrected": "полянскии",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "безноскова",
+      "surname_corrected": "безноскова",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "зудин",
+      "surname_corrected": "зудин",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "сытых",
+      "surname_corrected": "сытых",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "коргун",
+      "surname_corrected": "коргун",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "тревогина",
+      "surname_corrected": "тревогина",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "голованова",
+      "surname_corrected": "голованова",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "каленик",
+      "surname_corrected": "каленик",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "безлюдов",
+      "surname_corrected": "безлюдов",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "марьин",
+      "surname_corrected": "марьин",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "еремкин",
+      "surname_corrected": "еремкин",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "маистренко",
+      "surname_corrected": "маистренко",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "кузнецов мандрыка",
+      "surname_corrected": "кузнецов мандрыка",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "здоровец",
+      "surname_corrected": "здоровец",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "глатенок",
+      "surname_corrected": "глатенок",
+      "is_surname": true
+    },
+    {
+      "normalized_surname": "ступаков",
+      "surname_corrected": "ступаков",
+      "is_surname": true
+    }
+  ],
+  "ambiguous": [
+    {
+      "normalized_surname": "гулаидин",
+      "surname_corrected": "гулаидин",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "суая",
+      "surname_corrected": "суая",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "зрадовскии",
+      "surname_corrected": "зрадовскии",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "естаев",
+      "surname_corrected": "естаев",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "холунов",
+      "surname_corrected": "холунов",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "белва",
+      "surname_corrected": "белва",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "мерзаев",
+      "surname_corrected": "мерзаев",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "коцыло",
+      "surname_corrected": "коцыло",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "рузив",
+      "surname_corrected": "рузив",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "шеффлер",
+      "surname_corrected": "шеффлер",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "баба*ов",
+      "surname_corrected": "баба*ов",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "стреганова",
+      "surname_corrected": "стреганова",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "рыбчевскии",
+      "surname_corrected": "рыбчевскии",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "холичев",
+      "surname_corrected": "холичев",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "танов",
+      "surname_corrected": "танов",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "алепов",
+      "surname_corrected": "алепов",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "котефев",
+      "surname_corrected": "котефев",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "мхалевич",
+      "surname_corrected": "мхалевич",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "метюхина",
+      "surname_corrected": "метюхина",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "забураев",
+      "surname_corrected": "забураев",
+      "is_surname": false
+    }
+  ],
+  "empty": [],
+  "no_match": [
+    {
+      "normalized_surname": "венженовскии",
+      "surname_corrected": "венженовскии",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "борбуцк*я",
+      "surname_corrected": "борбуцк*я",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "чернпяшуев",
+      "surname_corrected": "чернпяшуев",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "левурддк",
+      "surname_corrected": "левурддк",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "филашихни",
+      "surname_corrected": "филашихни",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "боатырив",
+      "surname_corrected": "боатырив",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "жекал",
+      "surname_corrected": "жекал",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "чоговадзе",
+      "surname_corrected": "чоговадзе",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "цаиек",
+      "surname_corrected": "цаиек",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "приблудово",
+      "surname_corrected": "приблудово",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "дешовы",
+      "surname_corrected": "дешовы",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "мецеевич",
+      "surname_corrected": "мецеевич",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "махаорв",
+      "surname_corrected": "махаорв",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "синтерев",
+      "surname_corrected": "синтерев",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "пос*ва",
+      "surname_corrected": "пос*ва",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "юживанширев",
+      "surname_corrected": "юживанширев",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "стерпнев",
+      "surname_corrected": "стерпнев",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "св*стич",
+      "surname_corrected": "св*стич",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "кимгвщ",
+      "surname_corrected": "кимгвщ",
+      "is_surname": false
+    },
+    {
+      "normalized_surname": "шурп*ев",
+      "surname_corrected": "шурп*ев",
+      "is_surname": false
+    }
+  ]
+}

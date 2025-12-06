@@ -1,0 +1,432 @@
+{
+  "corrected": [
+    {
+      "normalized_name": "никола*",
+      "name_corrected": "николаи",
+      "is_name": true
+    },
+    {
+      "normalized_name": "консантин",
+      "name_corrected": "константин",
+      "is_name": true
+    },
+    {
+      "normalized_name": "брон*слав",
+      "name_corrected": "бронислав",
+      "is_name": true
+    },
+    {
+      "normalized_name": "лютослав",
+      "name_corrected": "любослав",
+      "is_name": true
+    },
+    {
+      "normalized_name": "ркслан",
+      "name_corrected": "руслан",
+      "is_name": true
+    },
+    {
+      "normalized_name": "явчеслав",
+      "name_corrected": "вячеслав",
+      "is_name": true
+    },
+    {
+      "normalized_name": "валереи",
+      "name_corrected": "валерии",
+      "is_name": true
+    },
+    {
+      "normalized_name": "вадем",
+      "name_corrected": "вадим",
+      "is_name": true
+    },
+    {
+      "normalized_name": "антаолии",
+      "name_corrected": "анатолии",
+      "is_name": true
+    },
+    {
+      "normalized_name": "юстине",
+      "name_corrected": "юстин",
+      "is_name": true
+    },
+    {
+      "normalized_name": "дадан",
+      "name_corrected": "жадан",
+      "is_name": true
+    },
+    {
+      "normalized_name": "альбер",
+      "name_corrected": "альберт",
+      "is_name": true
+    },
+    {
+      "normalized_name": "еннадии",
+      "name_corrected": "геннадии",
+      "is_name": true
+    },
+    {
+      "normalized_name": "свтелана",
+      "name_corrected": "светлана",
+      "is_name": true
+    },
+    {
+      "normalized_name": "еена",
+      "name_corrected": "елена",
+      "is_name": true
+    },
+    {
+      "normalized_name": "басиль",
+      "name_corrected": "василь",
+      "is_name": true
+    },
+    {
+      "normalized_name": "нино",
+      "name_corrected": "нина",
+      "is_name": true
+    },
+    {
+      "normalized_name": "еван",
+      "name_corrected": "иван",
+      "is_name": true
+    },
+    {
+      "normalized_name": "никол*и",
+      "name_corrected": "николаи",
+      "is_name": true
+    },
+    {
+      "normalized_name": "елеа",
+      "name_corrected": "елена",
+      "is_name": true
+    }
+  ],
+  "untouched": [
+    {
+      "normalized_name": "павел",
+      "name_corrected": "павел",
+      "is_name": true
+    },
+    {
+      "normalized_name": "анна",
+      "name_corrected": "анна",
+      "is_name": true
+    },
+    {
+      "normalized_name": "юрии",
+      "name_corrected": "юрии",
+      "is_name": true
+    },
+    {
+      "normalized_name": "ярослав",
+      "name_corrected": "ярослав",
+      "is_name": true
+    },
+    {
+      "normalized_name": "мария",
+      "name_corrected": "мария",
+      "is_name": true
+    },
+    {
+      "normalized_name": "руслан",
+      "name_corrected": "руслан",
+      "is_name": true
+    },
+    {
+      "normalized_name": "елена",
+      "name_corrected": "елена",
+      "is_name": true
+    },
+    {
+      "normalized_name": "владимир",
+      "name_corrected": "владимир",
+      "is_name": true
+    },
+    {
+      "normalized_name": "михаил",
+      "name_corrected": "михаил",
+      "is_name": true
+    },
+    {
+      "normalized_name": "сергеи",
+      "name_corrected": "сергеи",
+      "is_name": true
+    },
+    {
+      "normalized_name": "наталья",
+      "name_corrected": "наталья",
+      "is_name": true
+    },
+    {
+      "normalized_name": "анатолии",
+      "name_corrected": "анатолии",
+      "is_name": true
+    },
+    {
+      "normalized_name": "тимур",
+      "name_corrected": "тимур",
+      "is_name": true
+    },
+    {
+      "normalized_name": "светлана",
+      "name_corrected": "светлана",
+      "is_name": true
+    },
+    {
+      "normalized_name": "светлана",
+      "name_corrected": "светлана",
+      "is_name": true
+    },
+    {
+      "normalized_name": "дмитрии",
+      "name_corrected": "дмитрии",
+      "is_name": true
+    },
+    {
+      "normalized_name": "олег",
+      "name_corrected": "олег",
+      "is_name": true
+    },
+    {
+      "normalized_name": "александр",
+      "name_corrected": "александр",
+      "is_name": true
+    },
+    {
+      "normalized_name": "петр",
+      "name_corrected": "петр",
+      "is_name": true
+    },
+    {
+      "normalized_name": "алексеи",
+      "name_corrected": "алексеи",
+      "is_name": true
+    }
+  ],
+  "ambiguous": [
+    {
+      "normalized_name": "иян",
+      "name_corrected": "иян",
+      "is_name": false
+    },
+    {
+      "normalized_name": "раиса",
+      "name_corrected": "раиса",
+      "is_name": false
+    },
+    {
+      "normalized_name": "асмат",
+      "name_corrected": "асмат",
+      "is_name": false
+    },
+    {
+      "normalized_name": "валентина",
+      "name_corrected": "валентина",
+      "is_name": false
+    },
+    {
+      "normalized_name": "марина",
+      "name_corrected": "марина",
+      "is_name": false
+    },
+    {
+      "normalized_name": "раиса",
+      "name_corrected": "раиса",
+      "is_name": false
+    },
+    {
+      "normalized_name": "ома",
+      "name_corrected": "ома",
+      "is_name": false
+    },
+    {
+      "normalized_name": "демир",
+      "name_corrected": "демир",
+      "is_name": false
+    },
+    {
+      "normalized_name": "валентина",
+      "name_corrected": "валентина",
+      "is_name": false
+    },
+    {
+      "normalized_name": "фаиса",
+      "name_corrected": "фаиса",
+      "is_name": false
+    },
+    {
+      "normalized_name": "олеся",
+      "name_corrected": "олеся",
+      "is_name": false
+    },
+    {
+      "normalized_name": "раиса",
+      "name_corrected": "раиса",
+      "is_name": false
+    },
+    {
+      "normalized_name": "валерия",
+      "name_corrected": "валерия",
+      "is_name": false
+    },
+    {
+      "normalized_name": "марина",
+      "name_corrected": "марина",
+      "is_name": false
+    },
+    {
+      "normalized_name": "алиа",
+      "name_corrected": "алиа",
+      "is_name": false
+    },
+    {
+      "normalized_name": "антонина",
+      "name_corrected": "антонина",
+      "is_name": false
+    },
+    {
+      "normalized_name": "юлищ",
+      "name_corrected": "юлищ",
+      "is_name": false
+    },
+    {
+      "normalized_name": "марина",
+      "name_corrected": "марина",
+      "is_name": false
+    },
+    {
+      "normalized_name": "евдокия",
+      "name_corrected": "евдокия",
+      "is_name": false
+    },
+    {
+      "normalized_name": "онна",
+      "name_corrected": "онна",
+      "is_name": false
+    }
+  ],
+  "empty": [
+    {
+      "normalized_name": null,
+      "name_corrected": "",
+      "is_name": false
+    },
+    {
+      "normalized_name": null,
+      "name_corrected": "",
+      "is_name": false
+    },
+    {
+      "normalized_name": null,
+      "name_corrected": "",
+      "is_name": false
+    },
+    {
+      "normalized_name": null,
+      "name_corrected": "",
+      "is_name": false
+    }
+  ],
+  "no_match": [
+    {
+      "normalized_name": "кувцри",
+      "name_corrected": "кувцри",
+      "is_name": false
+    },
+    {
+      "normalized_name": "нурбеи",
+      "name_corrected": "нурбеи",
+      "is_name": false
+    },
+    {
+      "normalized_name": "курбоншо",
+      "name_corrected": "курбоншо",
+      "is_name": false
+    },
+    {
+      "normalized_name": "ди*бази",
+      "name_corrected": "ди*бази",
+      "is_name": false
+    },
+    {
+      "normalized_name": "бриуто",
+      "name_corrected": "бриуто",
+      "is_name": false
+    },
+    {
+      "normalized_name": "людмила",
+      "name_corrected": "людмила",
+      "is_name": false
+    },
+    {
+      "normalized_name": "ханис",
+      "name_corrected": "ханис",
+      "is_name": false
+    },
+    {
+      "normalized_name": "цезарии",
+      "name_corrected": "цезарии",
+      "is_name": false
+    },
+    {
+      "normalized_name": "кубоныч",
+      "name_corrected": "кубоныч",
+      "is_name": false
+    },
+    {
+      "normalized_name": "пот*",
+      "name_corrected": "пот*",
+      "is_name": false
+    },
+    {
+      "normalized_name": "нурмурат",
+      "name_corrected": "нурмурат",
+      "is_name": false
+    },
+    {
+      "normalized_name": "захритдин",
+      "name_corrected": "захритдин",
+      "is_name": false
+    },
+    {
+      "normalized_name": "н*сон",
+      "name_corrected": "н*сон",
+      "is_name": false
+    },
+    {
+      "normalized_name": "ануш*рвон",
+      "name_corrected": "ануш*рвон",
+      "is_name": false
+    },
+    {
+      "normalized_name": "вароздаи",
+      "name_corrected": "вароздаи",
+      "is_name": false
+    },
+    {
+      "normalized_name": "фаизим",
+      "name_corrected": "фаизим",
+      "is_name": false
+    },
+    {
+      "normalized_name": "ахвер*и",
+      "name_corrected": "ахвер*и",
+      "is_name": false
+    },
+    {
+      "normalized_name": "джавхари",
+      "name_corrected": "джавхари",
+      "is_name": false
+    },
+    {
+      "normalized_name": "ирали",
+      "name_corrected": "ирали",
+      "is_name": false
+    },
+    {
+      "normalized_name": "садиридин",
+      "name_corrected": "садиридин",
+      "is_name": false
+    }
+  ]
+}
