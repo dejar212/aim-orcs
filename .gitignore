@@ -1,16 +1,26 @@
-# Ignore large data artifacts and local/generated files
-data/
-clean_data/
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.DS_Store
+*.py[cod]
+*.so
+*.dll
+*.log
+*.tmp
+*.swp
+.DS_Store
+
 .env
-.venv
+.venv/
+venv/
+env/
+
+# Data and artifacts
+data/
+finaldata/
+clean_data/
+temp/
+results/
+old_model/
+reports/
+submission.parquet
+submission_detailed.parquet
 *.parquet
-*.zip
-*.tar
-*.gz
-*.7z
 
